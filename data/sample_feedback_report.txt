@@ -1,0 +1,22 @@
+NeuHire Interview Feedback Report
+---------------------------------
+Candidate: John Doe
+
+1. Tell me about yourself.
+- Fluency: Good
+- Relevance: High
+- Sentiment: Positive
+- Confidence: 0.85
+- Comments: Clear and concise introduction with relevant experience.
+
+2. What are your strengths and weaknesses?
+- Fluency: Moderate
+- Relevance: Moderate
+- Sentiment: Neutral
+- Confidence: 0.70
+- Comments: Strengths well explained; weakness description could be more detailed.
+
+...
+
+Overall Comments:
+Candidate shows good technical knowledge but can improve on communication clarity and elaboration on behavioral questions.
