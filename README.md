@@ -4,6 +4,10 @@ NeuHire is an AI/ML-based automated interviewing and candidate evaluation tool, 
 
 ---
 
+⚠️ **Project Status:** Prototype / Work In Progress - Some features are planned but not yet implemented.
+
+---
+
 ## 📌 Project Overview
 
 **NeuHire** aims to streamline and scale the interview process through automation and AI. It enables:
