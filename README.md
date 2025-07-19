@@ -95,6 +95,7 @@ neu-hire_suprathon/
 │ └── ui_mockup.png
 ├── README.md
 
+---
 
   -- Author --
 Name: Swayam Sharma
