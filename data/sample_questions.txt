@@ -1,0 +1,10 @@
+Tell me about yourself.
+What are your strengths and weaknesses?
+Explain the concept of polymorphism in OOP.
+How would you optimize a database query?
+Describe a challenging project you worked on.
+What motivates you in your work?
+How do you handle tight deadlines?
+Explain RESTful APIs.
+What is the difference between threading and multiprocessing?
+Why do you want to work at our company?
