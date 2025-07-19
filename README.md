@@ -98,8 +98,11 @@ neu-hire_suprathon/
 ---
 
   -- Author --
+  
 Name: Swayam Sharma
+
 Email: swayams1604@gmail.com
+
 Hackathon: SuPrathon 2K25 – AI/ML Track
 
 
