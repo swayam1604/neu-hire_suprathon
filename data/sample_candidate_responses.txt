@@ -1,0 +1,12 @@
+Example candidate answers to these questions (line-to-line correspondence). Can be used to test the NLP analysis module.
+
+I am a software engineer with 3 years of experience, specializing in backend development and cloud technologies.
+My strengths are problem-solving and attention to detail, while I am working on improving my public speaking skills.
+Polymorphism allows objects of different classes to be treated as instances of the same class through inheritance.
+I would optimize a database query by indexing the columns frequently used in WHERE clauses and avoiding unnecessary joins.
+In my last project, I had to redesign a legacy system under a tight deadline, which required coordination across teams.
+I am motivated by continuous learning and the opportunity to solve complex problems.
+I prioritize tasks and communicate clearly with stakeholders to meet deadlines without compromising quality.
+RESTful APIs are stateless interfaces that use HTTP methods to perform CRUD operations on resources.
+Threading involves multiple threads sharing the same memory space, while multiprocessing uses separate memory spaces.
+I am excited about your company’s innovation culture and opportunities for growth.
