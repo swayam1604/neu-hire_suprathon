@@ -1,0 +1,7 @@
+{% include 'header.html' %}
+<h2>Upload Audio Interview</h2>
+<form action="/audio_analysis" method="post" enctype="multipart/form-data">
+  <input type="file" name="audiofile" required>
+  <button type="submit">Analyze</button>
+</form>
+{% include 'footer.html' %}
