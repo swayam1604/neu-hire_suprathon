@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}NeuHire{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <header>
+    <h1>NeuHire – AI Interview Evaluator</h1>
+    <nav>
+      <a href="{{ url_for('home') }}">Home</a> |
+      <a href="{{ url_for('about') }}">About</a> |
+      <a href="{{ url_for('platform') }}">Platform</a> |
+      <a href="{{ url_for('blogs') }}">Blogs</a>
+    </nav>
+  </header>
+  <hr>
