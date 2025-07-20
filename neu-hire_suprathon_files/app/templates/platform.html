@@ -1,0 +1,8 @@
+{% include 'header.html' %}
+<h2>Try the NeuHire Platform</h2>
+<ul>
+  <li><a href="{{ url_for('interview') }}">Interview (Audio)</a></li>
+  <li><a href="{{ url_for('interview_text') }}">Interview (Text)</a></li>
+  <li><a href="{{ url_for('text') }}">Text Sentiment Analysis</a></li>
+</ul>
+{% include 'footer.html' %}
