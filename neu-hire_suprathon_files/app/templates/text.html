@@ -1,0 +1,7 @@
+{% include 'header.html' %}
+<h2>Text Sentiment Analysis</h2>
+<form action="/text_analysis" method="post">
+  <textarea name="text_input" rows="5" cols="80" required></textarea><br>
+  <button type="submit">Analyze</button>
+</form>
+{% include 'footer.html' %}
