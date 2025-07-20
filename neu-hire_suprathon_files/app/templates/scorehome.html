@@ -1,0 +1,8 @@
+{% include 'header.html' %}
+<h2>Score Analysis Home</h2>
+<p>Choose a method to analyze interview performance.</p>
+<ul>
+  <li><a href="{{ url_for('interview_text') }}">Text Interview</a></li>
+  <li><a href="{{ url_for('audio') }}">Audio Interview</a></li>
+</ul>
+{% include 'footer.html' %}
