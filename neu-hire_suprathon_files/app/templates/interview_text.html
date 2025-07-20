@@ -1,0 +1,7 @@
+{% include 'header.html' %}
+<h2>Interview (Text-based)</h2>
+<form action="/score_analysis" method="post">
+  <textarea name="interview_text" rows="10" cols="80" required></textarea><br>
+  <button type="submit">Analyze</button>
+</form>
+{% include 'footer.html' %}
