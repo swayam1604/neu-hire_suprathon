@@ -7,6 +7,17 @@ NeuHire is an AI/ML-based automated interviewing and candidate evaluation tool, 
 ⚠️ **Project Status:** Prototype / Work In Progress - Some features are planned but not yet implemented.
 
 ---
+## ⚠️ Model Files Notice
+
+This project includes pretrained model files (`.h5`, `.sav`, `.hdf5`) for demo and prototype purposes only. These models were used for:
+
+- Emotion detection (audio)
+- Personality trait prediction (text)
+- Interview scoring (combined)
+
+🔒 **These are not production-grade models** and may not generalize beyond controlled inputs. They are provided solely to demonstrate concept feasibility for SuPrathon 2K25.
+
+---
 
 ## 📌 Project Overview
 
