@@ -1,0 +1,32 @@
+{
+  "class_name": "Model",
+  "keras_version": "2.2.2",
+  "backend": "tensorflow",
+  "config": {
+    "name": "personality_model",
+    "input_layers": [["input1", 0, 0]],
+    "output_layers": [["dense_output", 0, 0]],
+    "layers": [
+      {
+        "name": "input1",
+        "class_name": "InputLayer",
+        "config": {
+          "batch_input_shape": [null, 300],
+          "dtype": "float32",
+          "name": "input1"
+        },
+        "inbound_nodes": []
+      },
+      {
+        "name": "dense_output",
+        "class_name": "Dense",
+        "config": {
+          "units": 5,
+          "activation": "softmax",
+          "name": "dense_output"
+        },
+        "inbound_nodes": [[["input1", 0, 0, {}]]]
+      }
+    ]
+  }
+}
